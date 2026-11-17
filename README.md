@@ -61,6 +61,11 @@ Tunggu hingga proses build selesai. Aplikasi Katalog Produk UPI Store akan terbu
 
 ## Tampilan Aplikasi
 
-   ![Tampilan Aplikasi](katalog.png)
-   ![Tampilan Aplikasi](edit.png)
-   ![Tampilan Aplikasi](hapus.png)
+### 1. Form Input dan Katalog Produk
+![Tampilan Aplikasi](katalog.png)
+
+### 2. Edit Produk
+![Tampilan Aplikasi](edit.png)
+
+### 1. Hapus Produk
+![Tampilan Aplikasi](hapus.png)
