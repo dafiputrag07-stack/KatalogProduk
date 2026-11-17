@@ -30,7 +30,6 @@ public class Database {
         try (
             Connection koneksi = bukaKoneksi();  
             Statement perintah = koneksi.createStatement()) {
-            // Jalankan SQL yang sudah disimpan dalam variabel sql.
             perintah.executeUpdate(sql);
         }
     }
