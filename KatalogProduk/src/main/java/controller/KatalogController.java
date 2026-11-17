@@ -44,7 +44,6 @@ public class KatalogController {
         fotoBox.getItems().add("kopi.png");
         fotoBox.getItems().add("matcha.png");
         fotoBox.getItems().add("waffle.png");
-        fotoBox.getItems().add("cookies.png");
         fotoBox.setValue("roti.png");
         try {
             showData();
