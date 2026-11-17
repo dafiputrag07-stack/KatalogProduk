@@ -1,7 +1,7 @@
 
-# Aplikasi Katalog Produk UPI Store
+# Aplikasi Katalog Produk
 
-Aplikasi Katalog Produk UPI Store merupakan aplikasi desktop berbasis Java yang dikembangkan menggunakan JavaFX sebagai antarmuka pengguna (GUI). Aplikasi ini digunakan untuk mengelola data produk, mulai dari menambahkan, menampilkan, mengedit, hingga menghapus data produk beserta foto.
+Aplikasi Katalog Produk merupakan aplikasi desktop berbasis Java yang dikembangkan menggunakan JavaFX sebagai antarmuka pengguna (GUI). Aplikasi ini digunakan untuk mengelola data produk, mulai dari menambahkan, menampilkan, mengedit, hingga menghapus data produk beserta foto.
 
 ## Fitur Aplikasi
 
@@ -20,7 +20,7 @@ Aplikasi Katalog Produk UPI Store merupakan aplikasi desktop berbasis Java yang 
 Buka terminal atau Command Prompt, kemudian jalankan perintah berikut:
 
 ```bash
-git clone https://github.com/dafiputrag07-stack/Daftar-Produk-Toko.git
+git clone https://github.com/dafiputrag07-stack/KatalogProduk.git
 ```
 
 ### 2. Masuk ke Folder Project
@@ -61,7 +61,4 @@ Tunggu hingga proses build selesai. Aplikasi Katalog Produk UPI Store akan terbu
 
 ## Tampilan Aplikasi
 
-Tambahkan screenshot aplikasi pada bagian berikut:
-
-<!-- Ganti dengan lokasi screenshot aplikasi -->
-![Tampilan Aplikasi](docs/tampilan-aplikasi.png)
+![Tampilan Aplikasi](katalog.png)
