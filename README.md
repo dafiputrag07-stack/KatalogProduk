@@ -61,4 +61,4 @@ Tunggu hingga proses build selesai. Aplikasi Katalog Produk UPI Store akan terbu
 
 ## Tampilan Aplikasi
 
-![Tampilan Aplikasi](katalog.png)
+   ![Tampilan Aplikasi](katalog.png)
